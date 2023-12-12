@@ -465,7 +465,7 @@
 .aboutgg p
 {
     margin-top: 20px;
-    color: #908e8e;
+    color: black;
     font-size: small;
 }
 
@@ -486,15 +486,27 @@
     display: flex;
 }
 
+.aboutdiv
+{
+    display: flex;
+}
+
+.aboutright
+{
+    margin-left: 40px;
+}
+
 .common p
 {
     margin-left: 10px;
+    line-height: 15px;
     color: #131212;
-    font-size: 8px;
+    font-size: 9px;
 }
 
 .lastp
 {
+    color: #908e8e;
     margin-top: 85px;
     text-align: center;
     font-size: xx-small;
