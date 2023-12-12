@@ -1,0 +1,502 @@
+.top-header
+{
+    padding: 30px 80px;
+    position: relative;
+}
+
+.textcontent
+{
+    position: absolute;
+    top: 33%;
+    left: 17%;
+}
+
+.textcontent h1
+{
+    font-size: 45px;
+}
+.textcontent h5
+{
+    margin-top: 10px;
+    color: gray;
+}
+
+.formcontent
+{
+    padding: 25px 0px;
+    background-color: white;
+    position: absolute;
+    top: 80%;
+    left: 15%;
+    border-radius: 10px;
+    width: 900px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.formcontent h4
+{
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+
+.firstformcontent .input
+{
+    margin-left: 20px;
+    width: 270px;
+    padding-left: 20px;
+    height: 40px;
+    border-color: grey;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    color: gray;
+}
+
+
+.firstformcontent{
+    margin-top: 10px;
+}
+
+.formcontent h4
+{
+    margin-left: 20px;
+}
+
+.firstformcontent .button
+{
+    padding-left: 0;
+    background-color: #17C1A3;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+
+.firstbutton
+{
+    padding: 8px 20px;
+    background-color: #17C1A3;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+
+.firstbuttons
+{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.firsta
+{
+    margin: 0;
+    padding: 0;
+}
+
+.talk
+{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.department-header
+{
+    margin-top: 150px;
+    padding: 0px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dept-head
+{
+    margin: 0px;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.department-details
+{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 80px;
+}
+
+.card
+{
+    width: 330px;
+    border-radius: 10px;
+}
+
+.department-details .depth
+{
+    margin-top: 20px;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.department-details .deptdesc
+{
+    font-family: 'Inter';
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #211E1E;
+    margin-top: 8px;
+
+}
+
+.department-details .card .deptread
+{
+    font-family: 'Inter';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    text-decoration: underline;
+    color: #17C1A3;
+    margin-left: 0px;
+
+}
+
+.whygg
+{
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 150px;
+    height: 530px;
+    overflow: hidden;
+    background-color: #E8F9F6;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.whygg .docimage
+{
+    position: absolute;
+    width: 700px;
+    bottom: 0;
+    left: -20;
+}
+
+.whyggdesc
+{
+    width: 400px;
+    margin-right: 40px;
+}
+
+.whyggdesc h3
+{
+    
+    font-family: 'Inter';
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}
+
+.whygginner p
+{
+    text-align: justify;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    color: #211E1E;
+
+}
+
+
+
+.whyggdesc img
+{
+   margin-right: 10px;
+}
+
+
+.whygginner
+{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.specialist
+{
+    margin-top: 150px;
+    padding: 0px 80px;
+}
+
+.specialistheading
+{
+    line-height: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.specialistheading h3
+{
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}
+
+.specialistheading p
+{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 12px;
+    color: #908e8e;
+}
+
+.specialistimages
+{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.specialistimage h3
+{
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: 0.02em;
+    text-align: center;
+
+}
+
+.specialistimage p
+{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 12px;
+    color: #908e8e;
+    text-align: center;
+}
+
+.viewbuttondiv
+{
+    display: flex;
+    justify-content: center;
+}
+
+.specialistin button
+{
+    margin-top: 40px;
+    text-align: center;
+    padding: 10px 40px;
+    background-color: #17C1A3;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+
+.facilities-section
+{
+    margin-top: 150px;
+}
+
+.facilities-header
+{
+    padding: 0px 80px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.facilities-inner-section
+{
+    display: flex;
+    align-items: center;
+    width: 62%;
+    justify-content: space-between;
+}
+
+.facilities-inner-section p
+{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+
+.facilities-images
+{
+    margin-top: 40px;
+    padding: 0px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.interested-section
+{
+    margin-top: 150px;
+    
+}
+
+.interested-content .card .deptdesc a
+{
+    text-decoration: none;
+}
+
+.interested-content
+{
+    position: relative;
+    margin-top: 150px;
+    height: 600px;
+    background-color: #E8F9F6;
+    display: flex;
+    justify-content: center;
+}
+
+.interested-content .department-details
+{
+    position: absolute;
+    top: -120px;
+}
+
+.mainnewsletter
+{
+    background-image: url(../img/image\ 17.png);
+    margin-top: 300px;
+    width: 1100px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.newsletter
+{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.newsletter button
+{
+    font-size: small;
+    text-align: center;
+    padding: 5px 10px;
+    background-color: #17C1A3;
+    border: none;
+    border-radius: 2px;
+    color: #FFFFFF;
+}
+
+.newsletter input
+{
+    border: none;
+}
+
+.mailinput
+{
+    padding-bottom: 10px;
+    border-bottom: black solid 1px;
+}
+
+.footer
+{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footerinner
+{
+    width: 80%;
+    height: 300px;
+}
+
+.icon
+{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.icon p
+{
+    width: 350px;
+    margin-top: 15px;
+    color: #908e8e;
+    font-size: small;
+}
+
+.innerright
+{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footerinnertop
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.aboutgg p
+{
+    margin-top: 20px;
+    color: #908e8e;
+    font-size: small;
+}
+
+.aboutgg span
+{
+    margin-left: 20px;
+}
+
+.footerinnerbottom{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.common
+{
+    display: flex;
+}
+
+.common p
+{
+    margin-left: 10px;
+    color: #131212;
+    font-size: 8px;
+}
+
+.lastp
+{
+    margin-top: 85px;
+    text-align: center;
+    font-size: xx-small;
+
+}
